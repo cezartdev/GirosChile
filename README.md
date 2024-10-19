@@ -11,7 +11,7 @@
 ### Proyecto original
 - El proyecto lo realizé en google colab.
 - Código original fue hecho con Python.
-- [Link del Notebook](https://colab.research.google.com/drive/1dvn-H7161jAzAvYRmPxylInLy-_TEDAo?usp=sharing)
+- [Link del Notebook o Codigo Original](https://colab.research.google.com/drive/1dvn-H7161jAzAvYRmPxylInLy-_TEDAo?usp=sharing)
 
 ### Infomación
 - El link del cual se extrajo la información funciona hasta la fecha 19/10/2024
