@@ -15,5 +15,5 @@
 
 ### Infomación
 - El link del cual se extrajo la información funciona hasta la fecha 19/10/2024
-
+- En la página del SII existen una especie de sub categorias. Estas no fueron tomadas en cuenta y solo permanecieron las destacadas, a las que llamé categorias.
 
